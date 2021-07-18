@@ -26,7 +26,7 @@ I'm Arnab Mandal!
     - GraphQL
     - MongoDB *(for storing data)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betheone07)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betheone07&layout=compact)
 
 <h2>📫 How to reach me:</h2>
 
