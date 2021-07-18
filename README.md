@@ -26,6 +26,8 @@ I'm Arnab Mandal!
     - GraphQL
     - MongoDB *(for storing data)*
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betheone07)
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:officialarnab007@gmail.com">![officialarnab007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/arnab-m-4413971b1/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
