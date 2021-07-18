@@ -9,7 +9,7 @@ I'm Arnab Mandal!
 
 - <h4>Projects revolving around Tech like: </h4>
   
-  - *<h6>Client-Side:</h6>*
+  - *<h5>Client-Side:</h5>*
     
     - Angular
     - Bootstrap
@@ -17,7 +17,7 @@ I'm Arnab Mandal!
     - Sass
     - Angular Material UI
   
-  - *<h6>Server-Side:</h6>*
+  - *<h5>Server-Side:</h5>*
 
     - Node.js
     - TypeScript
