@@ -1,8 +1,8 @@
-<h2>Hey! 👋</h2>
+# Hello folks!👋
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=betheone07.betheone07)
 
-I'm Arnab Mandal!
+I'm Arnab !
 
 - *Currently* **:** Full Stack Software Engineer at CHUBB India.
 - *Previously* **:** BTech CS Student at KIIT University.
@@ -25,6 +25,7 @@ I'm Arnab Mandal!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=betheone07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnab's GitHub Stats" />
 </a>
 
-<h2>📫 How to reach me:</h2>
+
+## 🔗 &nbsp;**Connect with me**
 
 <a href="mailto:officialarnab007@gmail.com">![officialarnab007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/arnab-m-4413971b1/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
