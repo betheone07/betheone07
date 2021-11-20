@@ -4,7 +4,7 @@
 
 I'm Arnab !
 
-- *Currently* **:** Full Stack Software Engineer at CHUBB India.
+- *Currently* **:** Frontend Developer at CHUBB India.
 - *Previously* **:** BTech CS Student at KIIT University.
 
 ## 🔧 Languages & Tools
