@@ -24,15 +24,6 @@ I'm Arnab Mandal!
 <a href="https://github.com/betheone07/betheone07">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=betheone07&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnab's GitHub Stats" />
 </a>
-<a href="https://github.com/betheone07/betheone07">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=betheone07&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/betheone07/betheone07">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=betheone07&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/betheone07/betheone07">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=betheone07&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <h2>📫 How to reach me:</h2>
 
